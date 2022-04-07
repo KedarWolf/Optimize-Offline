@@ -1,5 +1,26 @@
-{
-	"DisplayName": [
-		
-	]
+﻿{
+    "DisplayName":  [
+                        "Microsoft.AAD.BrokerPlugin",
+                        "Microsoft.AsyncTextService",
+                        "Microsoft.BioEnrollment",
+                        "Microsoft.ECApp",
+                        "Microsoft.LockApp",
+                        "Microsoft.Win32WebViewHost",
+                        "Microsoft.Windows.AddSuggestedFoldersToLibarayDialog",
+                        "Microsoft.Windows.AppRep.ChxApp",
+                        "Microsoft.Windows.AppResolverUX",
+                        "Microsoft.Windows.AssignedAccessLockApp",
+                        "Microsoft.Windows.CallingShellApp",
+                        "Microsoft.Windows.CapturePicker",
+                        "Microsoft.Windows.ContentDeliveryManager",
+                        "Microsoft.Windows.FileExplorer",
+                        "Microsoft.Windows.FilePicker",
+                        "Microsoft.Windows.ParentalControls",
+                        "Microsoft.Windows.PeopleExperienceHost",
+                        "Microsoft.Windows.PinningConfirmationDialog",
+                        "Microsoft.Windows.PrintQueueActionCenter",
+                        "Microsoft.Windows.SecureAssessmentBrowser",
+                        "Microsoft.XboxGameCallableUI",
+                        "NcsiUwpApp"
+                    ]
 }

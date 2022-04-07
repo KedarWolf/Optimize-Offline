@@ -1,9 +1,22 @@
-{
-	"PackageName": [
-		"Microsoft-Windows-Hello-Face-*",
-		"Microsoft-Windows-LanguageFeatures-*",
-		"Microsoft-Windows-QuickAssist-Package*",
-    "Microsoft-Windows-StepsRecorder-Package*",
-    "Microsoft-Windows-TabletPCMath-Package*"
-	]
+﻿{
+    "PackageName":  [
+                        "Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "Microsoft-Windows-Notepad-System-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.22593.1",
+                        "Microsoft-Windows-Notepad-System-FoD-Package~31bf3856ad364e35~wow64~~10.0.22593.1",
+                        "Microsoft-Windows-Notepad-System-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.22593.1",
+                        "Microsoft-Windows-Notepad-System-FoD-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~en-US~10.0.22593.1",
+                        "Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~~10.0.22593.1",
+                        "Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~en-US~10.0.22593.1",
+                        "Microsoft-Windows-LanguageFeatures-Speech-en-us-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "Microsoft-Windows-LanguageFeatures-OCR-en-us-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "Microsoft-Windows-LanguageFeatures-Handwriting-en-us-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "Microsoft-Windows-Hello-Face-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "OpenSSH-Client-Package~31bf3856ad364e35~amd64~~10.0.22593.1",
+                        "Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.22593.1",
+                        "Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~~10.0.22593.1",
+                        "Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.22593.1",
+                        "Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~10.0.22593.1"
+                    ]
 }

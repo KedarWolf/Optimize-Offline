@@ -1,13 +1,15 @@
-{
-	"Name": [
-		"App.StepsRecorder*",
-    "App.Support.QuickAssist*",
-		"OneCoreUAP.OneSync*",
-		"DirectX.Configuration.Database*",
-		"Hello.Face.*",
-    "Language.*",
-	  "MathRecognizer*",
-		"Microsoft.Windows.MSPaint*",
-		"Microsoft.Windows.WordPad*"
-	]
+﻿{
+    "Name":  [
+                 "App.StepsRecorder~~~~0.0.1.0",
+                 "Hello.Face.20134~~~~0.0.1.0",
+                 "Language.OCR~~~en-US~0.0.1.0",
+                 "Language.Speech~~~en-US~0.0.1.0",
+                 "MathRecognizer~~~~0.0.1.0",
+                 "Microsoft.Wallpapers.Extended~~~~0.0.1.0",
+                 "Microsoft.Windows.Notepad.System~~~~0.0.1.0",
+                 "Microsoft.Windows.PowerShell.ISE~~~~0.0.1.0",
+                 "Microsoft.Windows.WordPad~~~~0.0.1.0",
+                 "OneCoreUAP.OneSync~~~~0.0.1.0",
+                 "OpenSSH.Client~~~~0.0.1.0"
+             ]
 }

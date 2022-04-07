@@ -8,7 +8,6 @@
                         "Printing-Foundation-Features",
                         "Printing-Foundation-InternetPrinting-Client",
                         "Printing-PrintToPDFServices-Features",
-                        "Printing-XPSServices-Features",
                         "SearchEngine-Client-Package",
                         "SmbDirect",
                         "WCF-Services45",

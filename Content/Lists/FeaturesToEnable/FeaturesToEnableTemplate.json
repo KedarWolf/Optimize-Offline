@@ -95,6 +95,7 @@
                         "NFS-Administration",
                         "Printing-Foundation-LPDPrintService",
                         "Printing-Foundation-LPRPortMonitor",
+                        "Printing-XPSServices-Features",
                         "ServicesForNFS-ClientOnly",
                         "SimpleTCP",
                         "TelnetClient",

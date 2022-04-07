@@ -124,6 +124,11 @@
                          "start":  2
                      },
                      {
+                         "description":  "Brokering File System",
+                         "name":  "bfs",
+                         "start":  2
+                     },
+                     {
                          "description":  "Windows Bind Filter Driver",
                          "name":  "bindflt",
                          "start":  2
@@ -224,7 +229,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "ConsentUX",
+                         "description":  "ConsentUX User Service",
                          "name":  "ConsentUxUserSvc",
                          "start":  3
                      },
@@ -252,6 +257,11 @@
                          "description":  "DCOM Server Process Launcher",
                          "name":  "DcomLaunch",
                          "start":  2
+                     },
+                     {
+                         "description":  "dcsvc",
+                         "name":  "dcsvc",
+                         "start":  3
                      },
                      {
                          "description":  "Optimize drives",
@@ -409,7 +419,7 @@
                          "start":  2
                      },
                      {
-                         "description":  "",
+                         "description":  "CPU Scheduler for High Performance I/O",
                          "name":  "ExecutionContext",
                          "start":  3
                      },
@@ -421,11 +431,6 @@
                      {
                          "description":  "FAT12/16/32 File System Driver",
                          "name":  "fastfat",
-                         "start":  3
-                     },
-                     {
-                         "description":  "Fax",
-                         "name":  "Fax",
                          "start":  3
                      },
                      {
@@ -459,7 +464,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "Windows Camera Frame Server Monitor",
                          "name":  "FrameServerMonitor",
                          "start":  3
                      },
@@ -489,7 +494,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "HidSpi KMDF Class Extension",
                          "name":  "HidSpiCx",
                          "start":  3
                      },
@@ -526,6 +531,11 @@
                      {
                          "description":  "Microsoft Store Install Service",
                          "name":  "InstallService",
+                         "start":  3
+                     },
+                     {
+                         "description":  "Inventory and Compatibility Appraisal service",
+                         "name":  "InventorySvc",
                          "start":  3
                      },
                      {
@@ -634,7 +644,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "McpManagementService",
                          "name":  "McpManagementService",
                          "start":  3
                      },
@@ -644,7 +654,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "Windows Mixed Reality OpenXR Service",
                          "name":  "MixedRealityOpenXRSvc",
                          "start":  3
                      },
@@ -769,7 +779,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "NDKPerf Driver",
                          "name":  "NDKPerf",
                          "start":  3
                      },
@@ -834,7 +844,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "NPSMSvc",
                          "name":  "NPSMSvc",
                          "start":  3
                      },
@@ -849,7 +859,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "Sync Host",
                          "name":  "OneSyncSvc",
                          "start":  2
                      },
@@ -864,12 +874,12 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "Plan 9 Redirector Driver",
                          "name":  "P9Rdr",
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "P9RdrService",
                          "name":  "P9RdrService",
                          "start":  3
                      },
@@ -889,7 +899,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "PenService",
                          "name":  "PenService",
                          "start":  3
                      },
@@ -1189,12 +1199,12 @@
                          "start":  3
                      },
                      {
-                         "description":  "Space Parser",
+                         "description":  "spaceparser",
                          "name":  "spaceparser",
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "Holographic Spatial Graph Filter",
                          "name":  "SpatialGraphFilter",
                          "start":  3
                      },
@@ -1284,11 +1294,6 @@
                          "start":  2
                      },
                      {
-                         "description":  "Touch Keyboard and Handwriting Panel Service",
-                         "name":  "TabletInputService",
-                         "start":  3
-                     },
-                     {
                          "description":  "Telephony",
                          "name":  "TapiSrv",
                          "start":  3
@@ -1299,7 +1304,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "TCP/IP Registry Compatibility",
+                         "description":  "@%SystemRoot%\\System32\\drivers\\tcpipreg.sys,-10110,",
                          "name":  "tcpipreg",
                          "start":  2
                      },
@@ -1307,6 +1312,11 @@
                          "description":  "Remote Desktop Services",
                          "name":  "TermService",
                          "start":  3
+                     },
+                     {
+                         "description":  "Text Input Management Service",
+                         "name":  "TextInputManagementService",
+                         "start":  2
                      },
                      {
                          "description":  "Themes",
@@ -1514,7 +1524,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "Windows Update Medic Service",
+                         "description":  "WaaSMedicSvc",
                          "name":  "WaaSMedicSvc",
                          "start":  3
                      },
@@ -1534,7 +1544,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "WarpJITSvc",
+                         "description":  "Warp JIT Service",
                          "name":  "WarpJITSvc",
                          "start":  3
                      },
@@ -1599,6 +1609,16 @@
                          "start":  3
                      },
                      {
+                         "description":  "Web Threat Defense Service",
+                         "name":  "webthreatdefsvc",
+                         "start":  3
+                     },
+                     {
+                         "description":  "Web Threat Defense User Service",
+                         "name":  "webthreatdefusersvc",
+                         "start":  2
+                     },
+                     {
                          "description":  "Windows Event Collector",
                          "name":  "Wecsvc",
                          "start":  3
@@ -1629,7 +1649,7 @@
                          "start":  3
                      },
                      {
-                         "description":  "",
+                         "description":  "Wifi Network Adapter Class Extension",
                          "name":  "WifiCx",
                          "start":  3
                      },
@@ -1741,6 +1761,11 @@
                      {
                          "description":  "Windows Search",
                          "name":  "WSearch",
+                         "start":  2
+                     },
+                     {
+                         "description":  "wtd",
+                         "name":  "wtd",
                          "start":  2
                      },
                      {
