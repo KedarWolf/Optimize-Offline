@@ -8,7 +8,7 @@
     "Services : None | Select | List | Advanced"
   ],
   "SourcePath": "PathTo:\\sources\\install.wim",
-  "WindowsApps": "Select",
+  "WindowsApps": "Whitelist",
   "SystemApps": "Blacklist",
   "Capabilities": "Blacklist",
   "Packages": "Blacklist",

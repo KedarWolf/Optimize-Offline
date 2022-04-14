@@ -1,6 +1,6 @@
-﻿{
-    "FeatureName":  [
-                        "WorkFolders-Client",
-                        "MSRDC-Infrastructure"
-                    ]
+{
+  "FeatureName": [
+    "WorkFolders-Client",
+    "MSRDC-Infrastructure"
+  ]
 }

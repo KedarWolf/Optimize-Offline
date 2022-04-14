@@ -1,7 +1,10 @@
 {
-	"DisplayName": [
-		"Microsoft.VCLibs.*",
-		"Microsoft.UI.Xaml.*",
-		"Microsoft.WindowsTerminal"
-	]
+  "DisplayName": [
+    "Microsoft.DesktopAppInstaller",
+    "Microsoft.StorePurchaseApp",
+    "Microsoft.VCLibs.140.00",
+    "Microsoft.Xbox*",
+    "Microsoft.WindowsTerminal",
+    "Microsoft.WindowsStore"
+  ]
 }
