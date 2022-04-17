@@ -40,7 +40,7 @@
   "SelectiveRegistry": {
     "DisableWindowsUpgrade": false,
     "DisableWindowsUpdateMicrosoft": false,
-    "DisableDriverUpdate": true,
+    "DisableDriverUpdate": false,
     "DormantOneDrive": true,
     "Disable3rdPartyApps": true,
     "W11ClassicContextMenu": false,
